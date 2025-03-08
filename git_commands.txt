@@ -1,0 +1,15 @@
+1030  git add testing.py
+ 1031  git status
+ 1032  git rm --cached testing.py
+ 1033  git status
+ 1034  git add testing.py
+ 1035  git status
+ 1036  git commit -m "added testing files"
+ 1037  git status
+ 1038  rm testing.py
+ 1039  ls
+ 1040  ls -l
+ 1041  git status
+ 1042  git restore testing.py
+ 1043  git status
+ 1044  history
